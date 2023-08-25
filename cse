@@ -1,7 +1,7 @@
 git --version
-git status
 git help
+git status
 git init
 git branch
 git branch -M main
-git add <file name>
+gid add <file name>
